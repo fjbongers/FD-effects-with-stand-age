@@ -1,8 +1,8 @@
-#FD-effects-with-stand-age
+# FD-effects-with-stand-age
 # R Code belonging to the publication of Bongers et al 2021 NEE -Functional diversity effects on productivity increase with stand age in a forest biodiversity experiment-
-# for questions about the code, please contact Franca J. Bongers  - francajbongers@gmail.com - 
-# for questions about the data, pelase contact Xiaojuan Liu - liuxiaojuan06@ibcas.ac.cn - 
-# all analyses are performed with Rstudio 
+for questions about the code, please contact Franca J. Bongers  - francajbongers@gmail.com - 
+for questions about the data, pelase contact Xiaojuan Liu - liuxiaojuan06@ibcas.ac.cn - 
+all analyses are performed with Rstudio 
 R version 4.0.3 (2020-10-10) -- "Bunny-Wunnies Freak Out"
 Copyright (C) 2020 The R Foundation for Statistical Computing
 Platform: x86_64-w64-mingw32/x64 (64-bit)
