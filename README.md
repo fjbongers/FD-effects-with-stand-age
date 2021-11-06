@@ -5,7 +5,6 @@ all analyses are performed with Rstudio
 R version 4.0.3 (2020-10-10) -- "Bunny-Wunnies Freak Out"
 Copyright (C) 2020 The R Foundation for Statistical Computing
 
-There are 5 files 
 Bongers et al NEE_species traits and CWM and FD
 -> This code will show the correlations among all traits and show how to calculate the CWM and FD values for all 38 traits. Code for Fig S5 is included.
 
@@ -13,7 +12,7 @@ Bongers et al NEE_initial relationships and create metadata
 -> This code will show how the metadata was created from all productivity-community trait relationships for 10 years for both stand volume and stand volume increment.
 Code for Figure S8 included
 
-Bongers et al NEE_ analyse metadata
+Bongers et al NEE_analyse metadata
 -> This code will show the mixed-effects models analyzing the effects of CWMvsFD and AGE on slope and R2 data. Code for main Figures 2, 3 and 4 and Fig S2, Fig S3 and Fig S4 are included.
 
 Bongers et al NEE_multivariate FD and analyses
